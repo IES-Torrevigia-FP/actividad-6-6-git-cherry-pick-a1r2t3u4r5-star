@@ -1,6 +1,0 @@
-4b178d1 HOTFIX: corrige error crítico en login  # Este es el commit que queremos cherry-pickear
-80f8066 Añade funcionalidad B en develop
-0363e9f Añade funcionalidad A en develop
-dc65359 Crea versión 1.0 de la app
-34ccad4 add deadline
-8c0fb31 Initial commit
