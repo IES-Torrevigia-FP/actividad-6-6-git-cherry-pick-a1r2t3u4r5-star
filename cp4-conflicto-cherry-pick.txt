@@ -1,0 +1,41 @@
+En la rama main
+Tu rama está adelantada a 'origin/main' por 2 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Estás realizando un cherry-picking en el commit ca9fdf1.
+  (corrige los conflictos y ejecuta "git cherry-pick --continue")
+  (usa "git cherry-pick --skip" para saltar este parche)
+  (usa "git cherry-pick --abort" para cancelar la operación cherry-pick)
+
+Rutas no fusionadas:
+  (usa "git add <archivo>..." para marcar una resolución)
+	modificados por ambos:  app.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp3-multiples-commits.txt
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+
+
+Después:
+
+En la rama main
+Tu rama está adelantada a 'origin/main' por 3 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp3-multiples-commits.txt
+
+no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
+
+
+
+Durante el cherry-pick se produjo un conflicto en el archivo app.txt porque ambas ramas modificaban la misma parte del archivo.
+
+Para resolverlo, edité el archivo eliminando los marcadores de conflicto y dejando un contenido coherente combinando los cambios.
+
+Después ejecuté:
+git add app.txt
+git cherry-pick --continue

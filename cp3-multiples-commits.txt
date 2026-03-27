@@ -1,0 +1,15 @@
+a58fb03 (HEAD -> test) HOTFIX: corrige error crítico en login
+19f6729 Añade funcionalidad B en develop
+bdb44aa (main) HOTFIX: corrige error crítico en login
+dc65359 Crea versión 1.0 de la app
+34ccad4 (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
+Versión 1.0 de la aplicación.
+Funcionalidad B: en desarrollo
+HOTFIX: corrige error crítico en login
+
+La diferencia entre merge y cherry-pick es que merge une toda una rama con otra, trayendo todos sus commits.
+
+Cherry-pick permite traer solo commits específicos sin mezclar toda la rama.
+
+Se usa cuando solo necesitas cambios concretos.
