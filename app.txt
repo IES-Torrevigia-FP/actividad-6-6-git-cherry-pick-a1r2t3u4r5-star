@@ -1,2 +1,3 @@
 Versión 1.0 de la aplicación.
 Funcionalidad B: en desarrollo
+HOTFIX: corrige error crítico en login
