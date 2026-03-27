@@ -1,0 +1,7 @@
+bdb44aa HOTFIX: corrige error crítico en login
+
+Versión 1.0 de la aplicación.
+HOTFIX: corrige error crítico en login
+
+
+Esto es útil para aplicar hotfixes porque solo trae los cambios necesarios sin traer todas las funcionalidades en desarrollo.
