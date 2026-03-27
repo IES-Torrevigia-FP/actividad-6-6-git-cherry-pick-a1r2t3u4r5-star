@@ -2,4 +2,4 @@ Versión 1.0 de la aplicación.
 Funcionalidad A: en desarrollo
 Funcionalidad B: en desarrollo
 HOTFIX: corrige error crítico en login
-4b178d1 (HOTFIX: corrige error crítico en login)
+HOTFIX: cambio alternativo en login (develop)
